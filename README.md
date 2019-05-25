@@ -1,1 +1,1 @@
-# comparative-analysis-of-Elliptic-and-Hessian-curve-cryptography
+# Comparative-Analysis-of-Elliptic-and-Hessian-curve-cryptography
