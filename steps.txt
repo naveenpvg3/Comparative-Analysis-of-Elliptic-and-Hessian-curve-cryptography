@@ -1,0 +1,8 @@
+Following are the steps to execute-
+
+1:Open code folder
+2:Open terminal and run the python code
+
+Eliptic Curve-eliptic.py
+Hessian Curve-hessian.py
+comparitive analysis-comgra.py
